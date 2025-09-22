@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: shriyadwh
+    database: netfilxdb  
+    schema: shriyawarehouse  
+    tables:
+      - name: factinternetsales
+      - name: dimcustomers

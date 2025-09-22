@@ -1,0 +1,13 @@
+DWH_Project:
+  outputs:
+    dev:
+      account: ZGDEYGE-MN15000
+      database: NETFILXDB
+      password: IndiaGanga@999
+      role: ACCOUNTADMIN
+      schema: NETFILXSCHEMA
+      threads: 3
+      type: snowflake
+      user: GOURC
+      warehouse: COMPUTE_WH
+  target: dev
