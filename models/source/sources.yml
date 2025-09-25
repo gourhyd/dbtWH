@@ -6,4 +6,5 @@ sources:
     schema: shriyawarehouse  
     tables:
       - name: factinternetsales
-      - name: dimcustomers
+      - name: dimemployee
+      - name: dimdate

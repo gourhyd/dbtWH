@@ -1,7 +1,7 @@
 DWH_Project:
   outputs:
     dev:
-      account: ZGDEYGE-MN15000
+      account: IYKQGXO-ACB05409
       database: NETFILXDB
       password: IndiaGanga@999
       role: ACCOUNTADMIN
